@@ -1,2 +1,4 @@
 # git_training
-it training ?
+git training ?
+Git training
+lecon 1
