@@ -1,2 +1,2 @@
 # git_training
-Git training
+it training
